@@ -2153,6 +2153,14 @@
     axios "^1.6.2"
     query-string "^7.1.1"
 
+"@refinedev/strapi-v4@^6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@refinedev/strapi-v4/-/strapi-v4-6.0.1.tgz#171a32a831ec91cc8eb589a93b24445c6d9d165c"
+  integrity sha512-5pGquzZzJnwlTtmBSDiYSsgkiMCbYJgq95q9L5OF1HPe2vUHNb4zKLdYd0B9xsnRreoTrWTnkIv1AOwyE6SaXQ==
+  dependencies:
+    axios "^1.6.2"
+    qs "^6.10.1"
+
 "@refinedev/ui-types@^1.22.4":
   version "1.22.4"
   resolved "https://registry.yarnpkg.com/@refinedev/ui-types/-/ui-types-1.22.4.tgz#4143c5980a2830392c4aa55f79e2880eb5d7b3ad"
